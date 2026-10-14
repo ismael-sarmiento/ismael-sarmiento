@@ -1,9 +1,12 @@
-## Hola, soy Ismael Sarmiento
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Ismael Sarmiento · Lead Data Engineer · Gobierno del dato · Fundador de IsAcademy" src="assets/banner-light.png" width="100%">
+</picture>
+
+*Lead Data Engineer focused on data governance and founder of IsAcademy, an online academy for programming, data and AI.*
 
 **Lead Data Engineer** especializado en **gobierno del dato** y fundador de **[IsAcademy](https://ismael-sarmiento.github.io/isacademy/)**, una academia online de programación, datos e IA.
 Más de 10 años en el sector tecnológico y formando a profesionales.
-
-*Lead Data Engineer focused on data governance and founder of IsAcademy, an online academy for programming, data and AI.*
 
 ### Proyectos
 
@@ -11,7 +14,7 @@ Más de 10 años en el sector tecnológico y formando a profesionales.
 |---|---|---|
 | [**CV online**](https://ismael-sarmiento.github.io/) | Mi trayectoria en ingeniería de datos, en español e inglés | [ismael-sarmiento.github.io](https://github.com/ismael-sarmiento/ismael-sarmiento.github.io) |
 | [**IsAcademy**](https://ismael-sarmiento.github.io/isacademy/) | Clases personalizadas de Python, SQL, IA, Big Data y Data Engineering, con consola de Python y depurador en el navegador | [isacademy](https://github.com/ismael-sarmiento/isacademy) |
-| [**kimera-tools**](https://github.com/kimera-tools) | Mis librerías y laboratorios de código abierto | [organización](https://github.com/kimera-tools) |
+| [**Kimera Tools**](https://github.com/kimera-tools) | Mis herramientas y apuntes de código abierto | [kimera-python](https://github.com/kimera-tools/kimera-python) |
 
 ### Con qué trabajo
 
