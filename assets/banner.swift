@@ -78,11 +78,11 @@ ctx.restoreGState()
 
 // role and stack
 ctx.textPosition = CGPoint(x: x0 + 4, y: 140)
-CTLineDraw(line("Lead Data Engineer · Gobierno del dato · Fundador de IsAcademy", font(38, 500), ink), ctx)
+CTLineDraw(line("Head of Data Management · Gobierno del dato · Fundador de IsAcademy", font(34, 500), ink), ctx)
 // thin gold rule
 ctx.setFillColor(gold2); ctx.fill(CGRect(x: x0 + 4, y: 112, width: 56, height: 3))
 ctx.textPosition = CGPoint(x: x0 + 4, y: 70)
-CTLineDraw(line("Python  ·  SQL  ·  Spark  ·  Airflow  ·  Inteligencia Artificial", font(28, 400), muted, kern: 0.4), ctx)
+CTLineDraw(line("HL7 FHIR  ·  OMOP CDM  ·  DataHub  ·  Calidad del dato  ·  IA", font(28, 400), muted, kern: 0.4), ctx)
 
 let img = ctx.makeImage()!
 let dest = CGImageDestinationCreateWithURL(URL(fileURLWithPath: out) as CFURL, UTType.png.identifier as CFString, 1, nil)!
