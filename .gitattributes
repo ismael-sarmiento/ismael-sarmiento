@@ -1,0 +1,2 @@
+# the banner generator is a tool, not the language of this profile
+*.swift linguist-detectable=false
