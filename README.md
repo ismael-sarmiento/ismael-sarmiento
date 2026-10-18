@@ -21,7 +21,7 @@ Certificación CDMP (Associate) de DAMA International · Miembro activo de DAMA 
 
 ### Con qué trabajo
 
-Gobierno del dato (DAMA-DMBOK) · HL7 FHIR · OMOP CDM · DataHub · Calidad del dato (UNE 0081) · Python · SQL · Apache Spark · Airflow · IA generativa
+Gobierno del dato (DAMA-DMBOK) · HL7 FHIR · OMOP CDM · Catálogo y metadatos · Calidad del dato (UNE 0081) · Python · SQL · Apache Spark · Airflow · IA generativa
 
 ### Contacto
 
