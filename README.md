@@ -14,7 +14,7 @@ Certificación CDMP (Associate) de DAMA International · Miembro activo de DAMA 
 
 | Proyecto | Qué es | Código |
 |---|---|---|
-| [**Inicio**](https://isuniverse.dev/) | Quién soy y la puerta a todo lo demás | [ismael-sarmiento.github.io](https://github.com/ismael-sarmiento/ismael-sarmiento.github.io) |
+| [**IsUniverse**](https://isuniverse.dev/) | Portada de mis proyectos de datos, IA y educación | [ismael-sarmiento.github.io](https://github.com/ismael-sarmiento/ismael-sarmiento.github.io) |
 | [**IsProfile**](https://isuniverse.dev/profile/) | Mi trayectoria en gobierno, interoperabilidad y calidad del dato, en español e inglés | [profile](https://github.com/ismael-sarmiento/profile) |
 | [**IsAcademy**](https://isuniverse.dev/academy/) | Clases personalizadas de Python, SQL, IA, Big Data y Data Engineering, con consola de Python y depurador en el navegador | [academy](https://github.com/ismael-sarmiento/academy) |
 | [**IsGame**](https://isuniverse.dev/game/) | Juego de mundo abierto de IsAcademy: conduce por Neo Academia y aprende programación, datos e IA | [game](https://github.com/ismael-sarmiento/game) |
@@ -26,4 +26,4 @@ Gobierno del dato (DAMA-DMBOK) · HL7 FHIR · OMOP CDM · Catálogo y metadatos 
 
 ### Contacto
 
-[IsProfile · CV Online](https://isuniverse.dev/profile/) · [LinkedIn](https://www.linkedin.com/in/ismael-sarmiento/) · [Reservar una clase en IsAcademy](https://isuniverse.dev/academy/#contacto)
+[IsProfile](https://isuniverse.dev/profile/) · [LinkedIn](https://www.linkedin.com/in/ismael-sarmiento/) · [Reservar una clase en IsAcademy](https://isuniverse.dev/academy/#contacto)
